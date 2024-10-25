@@ -1,0 +1,23 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/corridor/end_1",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/corridor/end_2",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

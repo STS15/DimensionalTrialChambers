@@ -1,0 +1,19 @@
+{
+  "key.categories.dimensionaltrialchambers": "Dimensional Trial Chambers",
+
+  "block.dimensionaltrialchambers.polished_blackstone_bulb": "Polished Blackstone Bulb",
+  "block.dimensionaltrialchambers.polished_blackstone_grate": "Polished Blackstone Grate",
+  "block.dimensionaltrialchambers.polished_blackstone_bricks_bulb": "Polished Blackstone Bricks Bulb",
+  "block.dimensionaltrialchambers.polished_blackstone_bricks_grate": "Polished Blackstone Bricks Grate",
+  "block.dimensionaltrialchambers.obsidian_grate": "Obsidian Grate",
+  "block.dimensionaltrialchambers.purpur_grate": "Purpur Grate",
+  "block.dimensionaltrialchambers.purpur_pillar_grate": "Purpur Pillar Grate",
+  "block.dimensionaltrialchambers.endstone_grate": "End Stone Grate",
+  "block.dimensionaltrialchambers.endstone_bricks_grate": "End Stone Bricks Grate",
+  "block.dimensionaltrialchambers.obsidian_bulb": "Obsidian Bulb",
+  "block.dimensionaltrialchambers.purpur_bulb": "Purpur Bulb",
+  "block.dimensionaltrialchambers.purpur_pillar_bulb": "Purpur Pillar Bulb",
+  "block.dimensionaltrialchambers.endstone_bulb": "End Stone Bulb",
+  "block.dimensionaltrialchambers.endstone_bricks_bulb": "End Stone Bricks Bulb"
+
+}

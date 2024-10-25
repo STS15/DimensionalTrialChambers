@@ -1,0 +1,14 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/reward/ominous_vault",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

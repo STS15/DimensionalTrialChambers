@@ -1,0 +1,56 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      },
+      "weight": 8
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:end_trial_chambers/corridor/addon/staircase",
+        "processors": "dimensionaltrialchambers:end_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:end_trial_chambers/corridor/addon/wall",
+        "processors": "dimensionaltrialchambers:end_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:end_trial_chambers/corridor/addon/ladder_to_middle",
+        "processors": "dimensionaltrialchambers:end_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:end_trial_chambers/corridor/addon/arrow_dispenser",
+        "processors": "dimensionaltrialchambers:end_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:end_trial_chambers/corridor/addon/bridge_lower",
+        "processors": "dimensionaltrialchambers:end_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 2
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

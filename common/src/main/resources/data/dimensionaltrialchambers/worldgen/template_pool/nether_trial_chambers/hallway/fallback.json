@@ -1,0 +1,41 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/hallway/rubble",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/hallway/rubble_chamber",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/hallway/rubble_thin",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/hallway/rubble_chamber_thin",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

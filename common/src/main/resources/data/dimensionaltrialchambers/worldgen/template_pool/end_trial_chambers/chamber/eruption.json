@@ -1,0 +1,95 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:end_trial_chambers/chamber/eruption/center_1",
+        "processors": "dimensionaltrialchambers:end_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:end_trial_chambers/chamber/eruption/breeze_slice_1",
+        "processors": "dimensionaltrialchambers:end_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:end_trial_chambers/chamber/eruption/slice_1",
+        "processors": "dimensionaltrialchambers:end_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:end_trial_chambers/chamber/eruption/slice_2",
+        "processors": "dimensionaltrialchambers:end_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:end_trial_chambers/chamber/eruption/slice_3",
+        "processors": "dimensionaltrialchambers:end_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:end_trial_chambers/chamber/eruption/quadrant_1",
+        "processors": "dimensionaltrialchambers:end_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:end_trial_chambers/chamber/eruption/quadrant_2",
+        "processors": "dimensionaltrialchambers:end_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:end_trial_chambers/chamber/eruption/quadrant_3",
+        "processors": "dimensionaltrialchambers:end_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:end_trial_chambers/chamber/eruption/quadrant_4",
+        "processors": "dimensionaltrialchambers:end_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:end_trial_chambers/chamber/eruption/quadrant_5",
+        "processors": "dimensionaltrialchambers:end_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

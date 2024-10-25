@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:purpur_pillar_block"
+  },
+  "result": {
+    "count": 4,
+    "id": "dimensionaltrialchambers:purpur_pillar_grate"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "dimensionaltrialchambers:polished_blackstone_bricks_bulb",
+    "dimensionaltrialchambers:polished_blackstone_bulb",
+    "dimensionaltrialchambers:polished_blackstone_bricks_grate",
+    "dimensionaltrialchambers:polished_blackstone_grate",
+    "dimensionaltrialchambers:obsidian_grate",
+    "dimensionaltrialchambers:purpur_grate",
+    "dimensionaltrialchambers:purpur_pillar_grate",
+    "dimensionaltrialchambers:endstone_grate",
+    "dimensionaltrialchambers:endstone_bricks_grate",
+    "dimensionaltrialchambers:obsidian_bulb",
+    "dimensionaltrialchambers:purpur_bulb",
+    "dimensionaltrialchambers:purpur_pillar_bulb",
+    "dimensionaltrialchambers:endstone_bulb",
+    "dimensionaltrialchambers:endstone_bricks_bulb"
+  ]
+}

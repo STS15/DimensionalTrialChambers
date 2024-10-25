@@ -1,0 +1,32 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:end_trial_chambers/chamber/heavy_core_room",
+        "processors": "dimensionaltrialchambers:end_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 15
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:end_trial_chambers/chamber/boss",
+        "processors": "dimensionaltrialchambers:end_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 15
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:end_trial_chambers/chamber/boss_2",
+        "processors": "dimensionaltrialchambers:end_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 15
+    }
+  ],
+  "fallback": "dimensionaltrialchambers:end_trial_chambers/hallway/fallback"
+}

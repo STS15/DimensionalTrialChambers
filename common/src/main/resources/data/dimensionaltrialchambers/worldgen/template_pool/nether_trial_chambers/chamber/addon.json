@@ -1,0 +1,95 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/chamber/addon/full_stacked_walkway",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/chamber/addon/full_stacked_walkway_2",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/chamber/addon/full_corner_column",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/chamber/addon/grate_bridge",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/chamber/addon/hanging_platform",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/chamber/addon/short_grate_platform",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/chamber/addon/short_platform",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/chamber/addon/lower_staircase_down",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/chamber/addon/walkway_with_bridge_1",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/chamber/addon/c1_breeze",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

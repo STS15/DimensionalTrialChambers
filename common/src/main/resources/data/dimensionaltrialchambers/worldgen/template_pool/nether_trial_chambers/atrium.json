@@ -1,0 +1,68 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/corridor/atrium/bogged_relief",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/corridor/atrium/breeze_relief",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/corridor/atrium/spiral_relief",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/corridor/atrium/spider_relief",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/corridor/atrium/grand_staircase_1",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/corridor/atrium/grand_staircase_2",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dimensionaltrialchambers:nether_trial_chambers/corridor/atrium/grand_staircase_3",
+        "processors": "dimensionaltrialchambers:nether_themed_processor",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

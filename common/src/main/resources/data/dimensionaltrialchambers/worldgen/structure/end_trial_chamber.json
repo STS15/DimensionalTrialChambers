@@ -1,0 +1,194 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#dimensionaltrialchambers:end_trial_chamber",
+  "dimension_padding": 10,
+  "liquid_settings": "ignore_waterlogging",
+  "max_distance_from_center": 116,
+  "size": 20,
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element_type": "minecraft:random_group",
+      "groups": [
+        {
+          "weight": 1,
+          "elements": [
+            {
+              "element_type": "minecraft:single_pool_element",
+              "location": "dimensionaltrialchambers:end_trial_chambers/spawner/ranged/skeleton",
+              "processors": "dimensionaltrialchambers:end_theme_processors",
+              "projection": "rigid"
+            },
+            {
+              "element_type": "minecraft:single_pool_element",
+              "location": "dimensionaltrialchambers:end_trial_chambers/spawner/slow_ranged/skeleton",
+              "processors": "dimensionaltrialchambers:end_theme_processors",
+              "projection": "rigid"
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "elements": [
+            {
+              "element_type": "minecraft:single_pool_element",
+              "location": "dimensionaltrialchambers:end_trial_chambers/spawner/ranged/stray",
+              "processors": "dimensionaltrialchambers:end_theme_processors",
+              "projection": "rigid"
+            },
+            {
+              "element_type": "minecraft:single_pool_element",
+              "location": "dimensionaltrialchambers:end_trial_chambers/spawner/slow_ranged/stray",
+              "processors": "dimensionaltrialchambers:end_theme_processors",
+              "projection": "rigid"
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "elements": [
+            {
+              "element_type": "minecraft:single_pool_element",
+              "location": "dimensionaltrialchambers:end_trial_chambers/spawner/ranged/poison_skeleton",
+              "processors": "dimensionaltrialchambers:end_theme_processors",
+              "projection": "rigid"
+            },
+            {
+              "element_type": "minecraft:single_pool_element",
+              "location": "dimensionaltrialchambers:end_trial_chambers/spawner/slow_ranged/poison_skeleton",
+              "processors": "dimensionaltrialchambers:end_theme_processors",
+              "projection": "rigid"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "element_type": "minecraft:random",
+      "elements": [
+        {
+          "weight": 1,
+          "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dimensionaltrialchambers:end_trial_chambers/spawner/melee/zombie",
+            "processors": "dimensionaltrialchambers:end_theme_processors",
+            "projection": "rigid"
+          }
+        },
+        {
+          "weight": 1,
+          "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dimensionaltrialchambers:end_trial_chambers/spawner/melee/husk",
+            "processors": "dimensionaltrialchambers:end_theme_processors",
+            "projection": "rigid"
+          }
+        },
+        {
+          "weight": 1,
+          "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dimensionaltrialchambers:end_trial_chambers/spawner/melee/spider",
+            "processors": "dimensionaltrialchambers:end_theme_processors",
+            "projection": "rigid"
+          }
+        }
+      ]
+    },
+    {
+      "element_type": "minecraft:random",
+      "elements": [
+        {
+          "weight": 1,
+          "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dimensionaltrialchambers:end_trial_chambers/spawner/small_melee/slime",
+            "processors": "dimensionaltrialchambers:end_theme_processors",
+            "projection": "rigid"
+          }
+        },
+        {
+          "weight": 1,
+          "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dimensionaltrialchambers:end_trial_chambers/spawner/small_melee/cave_spider",
+            "processors": "dimensionaltrialchambers:end_theme_processors",
+            "projection": "rigid"
+          }
+        },
+        {
+          "weight": 1,
+          "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dimensionaltrialchambers:end_trial_chambers/spawner/small_melee/silverfish",
+            "processors": "dimensionaltrialchambers:end_theme_processors",
+            "projection": "rigid"
+          }
+        },
+        {
+          "weight": 1,
+          "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dimensionaltrialchambers:end_trial_chambers/spawner/small_melee/baby_zombie",
+            "processors": "dimensionaltrialchambers:end_theme_processors",
+            "projection": "rigid"
+          }
+        }
+      ]
+    }
+  ],
+  "spawn_overrides": {
+    "ambient": {
+      "bounding_box": "piece",
+      "spawns": []
+    },
+    "axolotls": {
+      "bounding_box": "piece",
+      "spawns": []
+    },
+    "creature": {
+      "bounding_box": "piece",
+      "spawns": []
+    },
+    "misc": {
+      "bounding_box": "piece",
+      "spawns": []
+    },
+    "monster": {
+      "bounding_box": "piece",
+      "spawns": [
+        {
+          "type": "minecraft:enderman",
+          "weight": 100,
+          "minCount": 4,
+          "maxCount": 6
+        }
+      ]
+    },
+    "underground_water_creature": {
+      "bounding_box": "piece",
+      "spawns": []
+    },
+    "water_ambient": {
+      "bounding_box": "piece",
+      "spawns": []
+    },
+    "water_creature": {
+      "bounding_box": "piece",
+      "spawns": []
+    }
+  },
+  "start_height": {
+    "type": "minecraft:uniform",
+    "max_inclusive": {
+      "absolute": 40
+    },
+    "min_inclusive": {
+      "absolute": 0
+    }
+  },
+  "start_pool": "dimensionaltrialchambers:end_trial_chambers/chamber/end",
+  "step": "underground_structures",
+  "terrain_adaptation": "encapsulate",
+  "use_expansion_hack": false
+}
