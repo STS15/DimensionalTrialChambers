@@ -1016,7 +1016,7 @@
             "block": "minecraft:waxed_oxidized_cut_copper_slab"
           },
           "output_state": {
-            "Name": "minecraft:polished_blackstone_brick_slab"
+            "Name": "minecraft:purpur_slab"
           }
         },
         {
@@ -1124,6 +1124,28 @@
             "Name": "dimensionaltrialchambers:purpur_pillar_bulb",
             "Properties": {
               "lit": "true",
+              "powered": "false"
+            }
+          }
+        },
+        {
+          "input_predicate": {
+            "block_state": {
+              "Name": "minecraft:waxed_copper_bulb",
+              "Properties": {
+                "lit": "false",
+                "powered": "false"
+              }
+            },
+            "predicate_type": "minecraft:blockstate_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "dimensionaltrialchambers:purpur_bulb",
+            "Properties": {
+              "lit": "false",
               "powered": "false"
             }
           }
